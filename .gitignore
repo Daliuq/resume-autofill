@@ -1,0 +1,20 @@
+# Private candidate data must remain local.
+references/user-profile.json
+references/private/
+references/evidence/
+private/
+evidence/
+progress/
+.env
+.env.*
+!.env.example
+*.pdf
+*.docx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

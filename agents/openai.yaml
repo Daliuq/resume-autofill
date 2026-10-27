@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 求职与网申助手"
+  short_description: "复用已确认资料，衔接岗位筛选、简历核验、批量填表与投递进展"
+  default_prompt: "使用 $resume-autofill 按我的需求处理岗位筛选、简历检查或网申，复用本地已确认资料；填表按区块批处理，保存核验后交我审阅，不自动投递。"
